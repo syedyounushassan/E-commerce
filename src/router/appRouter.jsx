@@ -2,7 +2,7 @@ import { Routes,Route, BrowserRouter } from 'react-router-dom'
 import ContactPage from "../pages/contact"
 import ProductCard from '../component/ProductCard'
 import Home from '../pages/home';
-import Layout from '../component/layout';
+import Layout from '../component/Layout';
 import Product from '../pages/product';
 
 
